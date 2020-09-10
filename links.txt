@@ -1,0 +1,16 @@
+Google drive link:
+
+https://drive.google.com/drive/folders/14VI6VR1p3CsMW4-GbjncpnVmB91Dn4fR
+
+Other links:
+https://www.analyticsvidhya.com/blog/2016/12/getting-ready-for-ai-based-gaming-agents-overview-of-open-source-reinforcement-learning-platforms/
+http://wiki.ros.org/rosserial_arduino/Tutorials/Blink
+
+reinforcemnent learning:
+https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/
+
+http://robotics.hobbizine.com/arduinoann.html
+
+https://textminingonline.com/dive-into-tensorflow-part-ii-basic-concepts
+Reddit link for various ways of controlling:
+https://redd.it/7m7ivr
